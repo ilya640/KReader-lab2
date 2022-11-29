@@ -31,7 +31,7 @@
 #### 2.1. Программные интерфейсы <a name="2.1"></a>
 Проект использует язык программирования Java и не взаимодействует с внешними системами и сервисами.
 #### 2.2. Интерфейс пользователя <a name="2.2"></a>
-Графический интерфейс проекта представлен с помощью мокапов [Вкладки меню](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/ProjectDocumentation/Mockups/Menu%20bar.png), [Способа выбора книги](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/ProjectDocumentation/Mockups/Book%20choice.png),[Функция поделиться](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/ProjectDocumentation/Mockups/Share%20bar.png) и [Пример чтения книги](https://github.com/DaniilPshenichny/BookReader/blob/master/docs/ProjectDocumentation/Mockups/Book%20reading.png).
+Графический интерфейс проекта представлен с помощью мокапов [Вкладки меню](https://github.com/ilya640/KReader-lab2/blob/main/ProjectDocumentation/Mockups/Menu%20bar.png), [Способа выбора книги](https://github.com/ilya640/KReader-lab2/blob/main/ProjectDocumentation/Mockups/Book%20choice.png),[Функция поделиться](https://github.com/ilya640/KReader-lab2/blob/main/ProjectDocumentation/Mockups/Share%20bar.png) и [Пример чтения книги]([https://github.com/DaniilPshenichny/BookReader/blob/master/docs/ProjectDocumentation/Mockups/Book%20reading.png](https://github.com/ilya640/KReader-lab2/blob/main/ProjectDocumentation/Mockups/Book%20reading.png)).
 Отдельного рассмотрения требует вкладка меню:
 
 Клавиша | Реакция
